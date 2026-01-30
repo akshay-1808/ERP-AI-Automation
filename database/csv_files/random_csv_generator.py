@@ -5,6 +5,8 @@ import random
 
 np.random.seed(42)
 
+#This python code generates csv files with random data for loading it into erp_db
+
 # ------------------ Products ------------------
 products = []
 fabric_types = ["Cotton", "Silk", "Denim", "Linen", "Polyester"]
